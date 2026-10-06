@@ -35,6 +35,15 @@
 
 ## 📸 Project Preview
 
+```text
+Mobile Control
+```
+
+
+https://github.com/user-attachments/assets/88f21312-0591-46a6-b05b-32158ca94779
+
+
+
 
 ---
 
